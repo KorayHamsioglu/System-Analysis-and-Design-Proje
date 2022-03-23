@@ -1,6 +1,6 @@
 # System-Analysis-and-Design-Proje
 
-Food order application via JAVA and mySQL.
+Food order application via JAVA and mySQL. Yildiz Technical University-Computer Science and Engineering-Project
 
 # Colleagues
 
